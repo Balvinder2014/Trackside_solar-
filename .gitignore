@@ -1,0 +1,19 @@
+# large input data - obtain from providers, see data/README.md
+era5_india/
+insat/
+osm/
+power_india/
+outputs/
+*.h5
+*.nc
+*.gpkg
+*.mat
+*.zip
+
+# credentials
+.cdsapirc
+
+# system
+__pycache__/
+.DS_Store
+Thumbs.db

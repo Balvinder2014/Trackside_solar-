@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Trackside solar for India's electrified railway: analysis code"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given names]"
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+repository-code: "https://github.com/[username]/trackside-solar-india"
+preferred-citation:
+  type: article
+  title: "Trackside solar with daily storage could supply most of India's electric rail traction"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given names]"
+  journal: "[Journal]"
+  year: 2026
